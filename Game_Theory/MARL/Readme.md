@@ -1,5 +1,5 @@
-## Multi-Agent Reinforcement Learning  
-**A Simple Introduction of MARL**. More details can be described in the review.pdf    
+## Multi-Agent Reinforcement Learning :telescope:  
+**A Simple Introduction of MARL**. More details can be described in the [review.pdf](https://github.com/ReinholdM/posts_details/blob/master/Game_Theory/MARL/review.pdf)   
 
 The taxonomy of MARL can be  
 
